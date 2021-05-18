@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>grid_scraper</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="eBay.OAuth.Client" Version="1.0.0" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.33" />
+  </ItemGroup>
+
+</Project>
