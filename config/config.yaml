@@ -1,0 +1,11 @@
+name: ebay-config
+api.sandbox.ebay.com:
+    appid: EriMoy-ProductD-SBX-0234ca515-bbc20580
+    certid: SBX-234ca515109e-8e3f-4ca4-be2a-bbf2
+    devid: 887e50e0-fa2f-4635-8ebd-90863920bf40
+    # redirecturi: <redirect_uri-from-developer-portal>
+# Api.ebay.com:
+#     appid: <appid-from-developer-portal>
+#     certid: <certid-from-developer-portal>
+#     devid: <devid-from-developer-portal>
+#     redirecturi: <redirect_uri-from-developer-portal>1

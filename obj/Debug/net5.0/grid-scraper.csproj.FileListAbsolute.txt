@@ -16,3 +16,8 @@ C:\Users\Eric Moy\Documents\Repositories\grid-scraper\obj\Debug\net5.0\grid-scra
 C:\Users\Eric Moy\Documents\Repositories\grid-scraper\obj\Debug\net5.0\grid-scraper.genruntimeconfig.cache
 C:\Users\Eric Moy\Documents\Repositories\grid-scraper\bin\Debug\net5.0\HtmlAgilityPack.dll
 C:\Users\Eric Moy\Documents\Repositories\grid-scraper\obj\Debug\net5.0\grid-scraper.csproj.CopyComplete
+C:\Users\Eric Moy\Documents\Repositories\grid-scraper\bin\Debug\net5.0\ebay-oauth-csharp-client.dll
+C:\Users\Eric Moy\Documents\Repositories\grid-scraper\bin\Debug\net5.0\log4net.dll
+C:\Users\Eric Moy\Documents\Repositories\grid-scraper\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Eric Moy\Documents\Repositories\grid-scraper\bin\Debug\net5.0\RestSharp.dll
+C:\Users\Eric Moy\Documents\Repositories\grid-scraper\bin\Debug\net5.0\YamlDotNet.dll

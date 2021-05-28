@@ -1,5 +1,6 @@
 ﻿using System;
 using data_runner;
+using ebay;
 
 namespace grid_scraper
 {
@@ -7,8 +8,8 @@ namespace grid_scraper
     {
         static void Main(string[] args)
         {
-            var MoneroBenchmarks = new MoneroBenchmarks();
-            MoneroBenchmarks.Scrape();
+            Search search = new Search();
+            
         }
     }
 }
